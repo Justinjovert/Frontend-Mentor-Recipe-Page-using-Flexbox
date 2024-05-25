@@ -19,14 +19,13 @@ A Recipe Page challenge from Frontend Mentor to solidify my skills.
 
 ### Screenshot
 
-![Desktop](./design/screenshot-desktop.png)
-![Mobile](./design/screenshot-mobile.png)
+[![Desktop](./design/screenshot-desktop.png)](./design/screenshot-desktop.png)
+[![Mobile](./design/screenshot-mobile.png)](./design/screenshot-mobile.png)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Github](https://justinjovert.github.io/Frontend-Mentor-Recipe-Page-using-Flexbox/)
 
 ## My process
  Built a container for the whole text semantic. A separate container for image because I think padding is not needed when on a smaller screen size.
