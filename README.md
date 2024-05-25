@@ -20,7 +20,6 @@ A Recipe Page challenge from Frontend Mentor to solidify my skills.
 ### Screenshot
 
 [![Desktop](./design/screenshot-desktop.png)](./design/screenshot-desktop.png)
-[![Mobile](./design/screenshot-mobile.png)](./design/screenshot-mobile.png)
 
 
 ### Links
